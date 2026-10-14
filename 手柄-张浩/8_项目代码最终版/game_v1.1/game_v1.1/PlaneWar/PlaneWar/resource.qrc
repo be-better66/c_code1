@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/myplane.png</file>
+        <file>images/mybullet.png</file>
+        <file>images/enemyplane.png</file>
+        <file>images/enemybullet.png</file>
+        <file>images/boss.png</file>
+        <file>images/bossbullet.png</file>
+        <file>images/background.png</file>
+        <file>images/bomb-1.png</file>
+        <file>images/bomb-2.png</file>
+        <file>images/bomb-3.png</file>
+        <file>images/bomb-4.png</file>
+        <file>images/bomb-5.png</file>
+        <file>images/bomb-6.png</file>
+        <file>images/bomb-7.png</file>
+        <file>images/lifesupply.png</file>
+        <file>images/bigbullet.png</file>
+        <file>images/bomb.wav</file>
+        <file>images/Splash.png</file>
+        <file>images/welcome.png</file>
+        <file>images/enemy.png</file>
+    </qresource>
+</RCC>
